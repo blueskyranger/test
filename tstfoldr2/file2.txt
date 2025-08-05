@@ -1,2 +1,4 @@
 file 2 content
 locally added content
+
+This content has been added as part of feature-3
