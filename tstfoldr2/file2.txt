@@ -1,6 +1,1 @@
 file 2 content
-locally added content
-
-This content has been added as part of feature-3
-This content has been added as part of feature-4
-This content has been added locally as part of feature-5 without creating a new branch
